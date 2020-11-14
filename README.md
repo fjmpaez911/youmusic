@@ -1,4 +1,3 @@
-## Welcome to YouMusic
 
 [YouMusic](https://youmusic-pwa.web.app) helps you to keep track of your YouTube playlists. 
 You may have many playlists in your YouTube account for different topics. [YouMusic](https://youmusic-pwa.web.app) allows you to bring Playlist where you have your favorite songs, talks, podcast, etc. Then you will be able to play just the audio of them. You can also download any song or the whole playlist.
