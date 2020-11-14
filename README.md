@@ -21,7 +21,7 @@ If any song is deleted from YouTube you will see that the song is not in the ori
 ![](installIphone.gif)
 
 ### Android
-
+![](installIphone.gif)
 
 ## Add YouTube playlists
 
