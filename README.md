@@ -1,7 +1,7 @@
 ## Welcome to YouMusic
 
 [YouMusic](https://youmusic-pwa.web.app) helps you to keep track of your YouTube playlists. 
-You may have many playlists in your YouTube account for different topics. [YouMusic](https://youmusic-pwa.web.app) allows you to bring Playlist were you have saved your favorite songs, or talks, podcast, etc. Then you will be able to play just the audio of the videos. You can also download any song or the whole playlist.
+You may have many playlists in your YouTube account for different topics. [YouMusic](https://youmusic-pwa.web.app) allows you to bring Playlist where you have your favorite songs, talks, podcast, etc. Then you will be able to play just the audio of them. You can also download any song or the whole playlist.
 
 When a video is added or removed in the original playlist (YouTube), you will see what are the changes. Then you can sync your playlist or edit it manually.
 
@@ -15,19 +15,41 @@ If any song is deleted from YouTube you will see that the song is not in the ori
 ## Install the app
 
 ### Desktop
-
+![](installDesktop.gif)
 
 ### Iphone
 ![](installIphone.gif)
 
 ### Android
-![](installIphone.gif)
+
 
 ## Add YouTube playlists
+![](addPlaylist.gif)
+
+**_The playlist has to be Public or Unlisted_**
+![](publicPlaylists.png)
+![](publicPlaylists2.png)
+
+
+### Edit the playlists
+![](editAndSync.gif)
+
+### Playlists (auto-sync)
+![](auto-sync.gif)
+
+
 
 ## Extract some minutes from the song
+- Part 1
+![](cut1.gif)
+
+- Part 2
+![](cut2.gif)
+
 
 ## Share your playlists or songs
+![](share.gif)
+
 
 
 
