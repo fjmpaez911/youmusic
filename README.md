@@ -40,11 +40,7 @@ If any song is deleted from YouTube you will see that the song is not in the ori
 
 
 ## Extract some minutes from the song
-- Part 1
-![](cut1.gif)
-
-- Part 2
-![](cut2.gif)
+Watch the [video](https://youtu.be/xWxEDVjj5b8)
 
 
 ## Share your playlists or songs
