@@ -1,5 +1,3 @@
-https://youmusic.app/doc
-
 
 [YouMusic](https://youmusic.app) helps you to keep track of your YouTube playlists. 
 
