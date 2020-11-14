@@ -27,6 +27,7 @@ If any song is deleted from YouTube you will see that the song is not in the ori
 ![](addPlaylist.gif)
 
 **_The playlist has to be Public or Unlisted_**
+
 ![](publicPlaylists.png)
 ![](publicPlaylists2.png)
 
