@@ -5,6 +5,13 @@ Visit [YouMusic Web app](https://youmusic-pwa.web.app)
 
 ### How to
 
+- Install in desktop
+- Install in Iphone
+- Install in Android
+- Cut song
+- Share
+- Add YouTube playlists
+
 
 ```markdown
 Syntax highlighted code block
