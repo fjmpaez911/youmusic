@@ -11,10 +11,11 @@ You can change the name of the songs, so when you download a song the name won't
 If any song is deleted from YouTube you will see that the song is not in the original playlist anymore, but you can search it again as you know exactly which one was is gone.
 
 
-[YouMusic](https://youmusic.app) is a Web Application that you can use in the browser or as regular App in your Smartphone.
+[YouMusic](https://youmusic.app) is a Web Application that you can use in the browser or as regular app in your Smartphone.
 
 
 ## Install the app
+_YouMusic is not in Google Play Store or Apple Store_
 
 ### Desktop
 ![](installDesktop.gif)
