@@ -75,11 +75,11 @@ Mira el [video](https://youtu.be/xWxEDVjj5b8)
 
 
 ## Problema a resolver
-Cuando YouTube elimina un video de tus playlists no ha forma de saber cual era
-![](youtubeRemovedVideos)
-![](youtubeRemovedVideos2)
-![](youtubeMusicNotPlayable)
-![](youtubeMusicNotPlayable2)
+Cuando YouTube elimina un video de tus playlists no hay forma de saber cual era
+![](youtubeRemovedVideos.png)
+![](youtubeRemovedVideos2.png)
+![](youtubeMusicNotPlayable.png)
+![](youtubeMusicNotPlayable2.png)
 
 
 ## Soporte o contacto
