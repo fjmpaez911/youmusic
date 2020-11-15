@@ -10,15 +10,11 @@
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#añade-playlists-de-youtube">Añade playlists de YouTube</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#edita-la-playlist">Edita la playlist</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#playlists-auto-sync">Playlists (auto-sync)</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#extrae-un-trozo-de-un-video">Extrae un trozo de un video</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#comparte-tus-playlists-y-canciones">Comparte tus playlists y canciones</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#soporte-o-contacto">Soporte o Contacto</a>
+  <a href="#soporte-o-contacto">Soporte o contacto</a>
 </p>
 
 
@@ -74,7 +70,7 @@ Mira el [video](https://youtu.be/xWxEDVjj5b8)
 
 
 
-## Soporte o Contacto
+## Soporte o contacto
 
 ¿Problemas con la app? Envia un email a **_youmusicpwa@gmail.com_**.
 
