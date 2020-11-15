@@ -1,6 +1,6 @@
 
 <p align=right>
-  <a href="leeme.md">Versión en Español</a>
+  [Versión en Español](leeme.md)
 </p>
 
 
