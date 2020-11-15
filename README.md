@@ -1,5 +1,5 @@
 
-<p align=right>
+<p style="text-align:right;">
 
   [Versión en Español](leeme.md)
 
