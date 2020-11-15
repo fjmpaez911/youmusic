@@ -34,6 +34,8 @@ Si alguna canción se elimina en YouTube, podrás saber cual ha sido y por tanto
 [YouMusic](https://youmusic.app) es una Aplicación Web que puedes usar en el navegador o como cualquier otra app en tu Smartphone.
 
 
+<br>
+
 ## Instala la app
 _YouMusic no se instala desde Google Play Store o Apple Store_
 
@@ -48,6 +50,9 @@ _YouMusic no se instala desde Google Play Store o Apple Store_
 ### Android
 ![](installAndroidAuto.gif)
 ![](installAndroidManual.gif)
+
+
+<br>
 
 ## Añade playlists de YouTube
 ![](addPlaylist.gif)
@@ -65,22 +70,32 @@ _YouMusic no se instala desde Google Play Store o Apple Store_
 ![](auto-sync.gif)
 
 
+<br>
 
 ## Extrae un trozo de un video
 Mira el [video](https://youtu.be/xWxEDVjj5b8)
 
 
+<br>
+
 ## Comparte tus playlists y canciones
 ![](share.gif)
 
+
+<br>
 
 ## Problema a resolver
 Cuando YouTube elimina un video de tus playlists no hay forma de saber cual era
 ![](youtubeRemovedVideos.png)
 ![](youtubeRemovedVideos2.png)
+
+<br>
+No todas las canciones de tu playlist se pueden escuchar en YouTubeMusic
 ![](youtubeMusicNotPlayable.png)
 ![](youtubeMusicNotPlayable2.png)
 
+
+<br>
 
 ## Soporte o contacto
 
