@@ -89,14 +89,25 @@ Watch the [video](https://youtu.be/xWxEDVjj5b8)
 <br>
 
 ## Motivation
-### When YouTube deletes a video you can't know which one is gone in your playlist
-![](youtubeRemovedVideos.png)
-![](youtubeRemovedVideos2.png)
+When YouTube deletes a video you can't know which one is gone in your playlist
+<p>
+  <img src="youtubeRemovedVideos.png"/>
+</p>
+
+<p>
+  <img src="youtubeRemovedVideos2.png"/>
+</p>
 
 <br>
-### Not all the songs in your playlist can be playes in YouTubeMusic
-![](youtubeMusicNotPlayable.png)
-![](youtubeMusicNotPlayable2.png)
+Not all the songs in your playlist can be playes in YouTubeMusic
+
+<p>
+  <img src="youtubeMusicNotPlayable.png"/>
+</p>
+
+<p>
+  <img src="youtubeMusicNotPlayable2.png"/>
+</p>
 
 
 <br>
