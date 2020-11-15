@@ -1,15 +1,11 @@
 
-<p>
-
-  [Versión en Español](leeme.md)
-
+<p align=right>
+  <a href="leeme.md">Versión en Español</a>
 </p>
 
 
 <p align=center>
-
   <img src="logo.png"/>
-
 </p>
 
 
