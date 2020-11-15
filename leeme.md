@@ -1,9 +1,26 @@
+<p align=center>
+
+  <img src="logo.png"/>
+
+</p>
+
+
+<p align="center">
+  <a href="#instala-la-app">Instala la app</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#usage">Usage</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#edita-la-playlist">Edita la playlist</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#extrae-un-trozo-de-un-video">Extrae un trozo de un video</a>
+</p>
+
 
 [YouMusic](https://youmusic.app) te ayuda a saber que cambios ha habido en tus playlists de YouTube. 
 
 Es posible que tengas muchas playlists en YouTube sobre diferentes temas. YouMusic te permite importar playlists de YouTube de tus canciones favoritas, charlas, podcast, etc. Podrás escuchar el audio de esas playlists y descargarlas.
 
-Cuando se añaden o eliminan videos a la playlist original (YouTube), verás exactamente que canciones han sido añadias o eliminadas, y podrás sincronizar tus listas de forma manual, editandola, o automaticamente.
+Cuando se añaden o eliminan videos a la playlist original (YouTube), verás exactamente que canciones han sido añadias o eliminadas, y podrás sincronizar tus listas de forma manual (editandola) o automaticamente.
 
 Puedes cambiar el nombre de tus canciones, para que a la hora de descargarlas no contengan _"(Official video)"_ o _"(with lyrics)"_.
 
