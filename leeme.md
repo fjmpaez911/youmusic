@@ -86,15 +86,23 @@ Mira el [video](https://youtu.be/xWxEDVjj5b8)
 
 ## Problema a resolver
 Cuando YouTube elimina un video de tus playlists no hay forma de saber cual era
-<br>
-![](youtubeRemovedVideos.png)
-![](youtubeRemovedVideos2.png)
+<p>
+  <img src="youtubeRemovedVideos.png"/>
+</p>
+
+<p>
+  <img src="youtubeRemovedVideos2.png"/>
+</p>
 
 <br>
 No todas las canciones de tu playlist se pueden escuchar en YouTubeMusic
-<br>
-![](youtubeMusicNotPlayable.png)
-![](youtubeMusicNotPlayable2.png)
+<p>
+  <img src="youtubeMusicNotPlayable.png"/>
+</p>
+
+<p>
+  <img src="youtubeMusicNotPlayable2.png"/>
+</p>
 
 
 <br>
