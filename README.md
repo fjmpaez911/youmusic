@@ -1,7 +1,5 @@
 
-<p align=right>
-  [Versión en Español](leeme.md)
-</p>
+[Versión en Español](leeme.md)
 
 
 <p align=center>
