@@ -38,6 +38,8 @@ If any song is deleted from YouTube you will see that the song is not in the ori
 ## Install the app
 _YouMusic is not in Google Play Store or Apple Store_
 
+[https://youmusic.app](https://youmusic.app)
+
 ### Desktop
 ![](installDesktop.gif)
 
