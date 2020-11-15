@@ -100,7 +100,7 @@ When YouTube deletes a video you can't know which one is gone in your playlist
 
 <br>
 
-Not all the songs in your playlist can be playes in YouTubeMusic
+You can't listen to all the songs in your playlists in YouTubeMusic
 <p>
   <img src="youtubeMusicNotPlayable.png"/>
 </p>
