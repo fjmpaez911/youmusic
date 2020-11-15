@@ -14,7 +14,7 @@
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#comparte-tus-playlists-y-canciones">Comparte tus playlists y canciones</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#motivacion">Motivación</a>
+  <a href="#problema-a-resolver">Problema a resolver</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#soporte-o-contacto">Soporte o contacto</a>
 </p>
@@ -74,7 +74,7 @@ Mira el [video](https://youtu.be/xWxEDVjj5b8)
 ![](share.gif)
 
 
-## Motivación
+## Problema a resolver
 Cuando YouTube elimina un video de tus playlists no ha forma de saber cual era
 ![](youtubeRemovedVideos)
 ![](youtubeRemovedVideos2)
