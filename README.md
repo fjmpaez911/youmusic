@@ -16,8 +16,11 @@
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#share-your-playlists-and-songs">Share your playlists and songs</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#motivation">Motivation</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#support-or-contact">Support or contact</a>
 </p>
+
 
 <br>
 
@@ -35,6 +38,8 @@ If any song is deleted from YouTube you will see that the song is not in the ori
 [YouMusic](https://youmusic.app) is a Web Application that you can use in the browser or as regular app in your Smartphone.
 
 
+<br>
+
 ## Install the app
 _YouMusic is not in Google Play Store or Apple Store_
 
@@ -49,6 +54,9 @@ _YouMusic is not in Google Play Store or Apple Store_
 ### Android
 ![](installAndroidAuto.gif)
 ![](installAndroidManual.gif)
+
+
+<br>
 
 ## Add YouTube playlists
 ![](addPlaylist.gif)
@@ -66,16 +74,32 @@ _YouMusic is not in Google Play Store or Apple Store_
 ![](auto-sync.gif)
 
 
+<br>
 
 ## Extract some minutes from the song
 Watch the [video](https://youtu.be/xWxEDVjj5b8)
 
 
+<br>
+
 ## Share your playlists and songs
 ![](share.gif)
 
 
+<br>
 
+## Motivation
+### When YouTube deletes a video you can't know which one is gone in your playlist
+![](youtubeRemovedVideos.png)
+![](youtubeRemovedVideos2.png)
+
+<br>
+### Not all the songs in your playlist can be playes in YouTubeMusic
+![](youtubeMusicNotPlayable.png)
+![](youtubeMusicNotPlayable2.png)
+
+
+<br>
 
 ## Support or contact
 
