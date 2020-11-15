@@ -45,7 +45,8 @@ _YouMusic is not in Google Play Store or Apple Store_
 ![](installIphone.gif)
 
 ### Android
-(pending)
+![](installAndroidAuto.gif)
+![](installAndroidManual.gif)
 
 ## Add YouTube playlists
 ![](addPlaylist.gif)
