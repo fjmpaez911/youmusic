@@ -14,9 +14,13 @@
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#extract-some-minutes-from-the-song">Extract some minutes from the song</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#downloads">Downloads</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#share-your-playlists-and-songs">Share your playlists and songs</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#motivation">Motivation</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#platform">Platform</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#support-or-contact">Support or contact</a>
 </p>
@@ -82,6 +86,12 @@ Watch the [video](https://youtu.be/xWxEDVjj5b8)
 
 <br>
 
+## Downloads
+![](downloads.gif)
+
+
+<br>
+
 ## Share your playlists and songs
 ![](share.gif)
 
@@ -89,7 +99,9 @@ Watch the [video](https://youtu.be/xWxEDVjj5b8)
 <br>
 
 ## Motivation
+
 When YouTube deletes a video you can't know which one is gone in your playlist
+
 <p>
   <img src="youtubeRemovedVideos.png"/>
 </p>
@@ -101,12 +113,29 @@ When YouTube deletes a video you can't know which one is gone in your playlist
 <br>
 
 You can't listen to all the songs in your playlists in YouTubeMusic
+
 <p>
   <img src="youtubeMusicNotPlayable.png"/>
 </p>
 
 <p>
   <img src="youtubeMusicNotPlayable2.png"/>
+</p>
+
+
+<br>
+
+## Platform
+### Architecture
+<p>
+  <img src="platformArchitecture.png"/>
+</p>
+
+<br>
+
+### Infrastructure
+<p>
+  <img src="platformInfrastructure.png"/>
 </p>
 
 
