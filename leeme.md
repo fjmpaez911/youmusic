@@ -12,9 +12,13 @@
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#extrae-un-trozo-de-un-video">Extrae un trozo de un video</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#descargas">Descargas</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#comparte-tus-playlists-y-canciones">Comparte tus playlists y canciones</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#problema-a-resolver">Problema a resolver</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#sistema">Sistema</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#soporte-o-contacto">Soporte o contacto</a>
 </p>
@@ -78,6 +82,12 @@ Mira el [video](https://youtu.be/xWxEDVjj5b8)
 
 <br>
 
+## Descargas
+![](downloads.gif)
+
+
+<br>
+
 ## Comparte tus playlists y canciones
 ![](share.gif)
 
@@ -85,7 +95,9 @@ Mira el [video](https://youtu.be/xWxEDVjj5b8)
 <br>
 
 ## Problema a resolver
+
 Cuando YouTube elimina un video de tus playlists no hay forma de saber cual era
+
 <p>
   <img src="youtubeRemovedVideos.png"/>
 </p>
@@ -95,13 +107,31 @@ Cuando YouTube elimina un video de tus playlists no hay forma de saber cual era
 </p>
 
 <br>
+
 No todas las canciones de tu playlist se pueden escuchar en YouTubeMusic
+
 <p>
   <img src="youtubeMusicNotPlayable.png"/>
 </p>
 
 <p>
   <img src="youtubeMusicNotPlayable2.png"/>
+</p>
+
+
+<br>
+
+## Sistema
+### Arquitectura
+<p>
+  <img src="platformArchitecture.png"/>
+</p>
+
+<br>
+
+### Infraestructura
+<p>
+  <img src="platformInfrastructure.png"/>
 </p>
 
 
