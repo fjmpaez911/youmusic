@@ -22,7 +22,7 @@
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#platform">Platform</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#gitops">GitOps</a>
+  <a href="#gitops-deployment">GitOps Deployment</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#support-or-contact">Support or contact</a>
 </p>
@@ -142,8 +142,8 @@ You can't listen to all the songs in your playlists in YouTubeMusic
 
 <br>
 
-## GitOps
-### Rancher
+## GitOps Deployment
+### Rancher with microk8s
 <p>
   <img src="rancher-cluster.png"/>
 </p>
@@ -153,7 +153,7 @@ You can't listen to all the songs in your playlists in YouTubeMusic
 
 <br>
 
-### Argo
+### Argo CD
 <p>
   <img src="argo-youmusic.png"/>
 </p>
