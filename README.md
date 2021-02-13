@@ -143,7 +143,7 @@ You can't listen to all the songs in your playlists in YouTubeMusic
 <br>
 
 ## GitOps Deployment
-### Rancher with microk8s
+### Rancher & microk8s
 <p>
   <img src="rancher-cluster.png"/>
 </p>
