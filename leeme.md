@@ -20,7 +20,7 @@
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#sistema">Sistema</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#gitops">GitOps</a>
+  <a href="#gitops-deployment">GitOps Deployment</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#soporte-o-contacto">Soporte o contacto</a>
 </p>
@@ -138,8 +138,8 @@ No todas las canciones de tu playlist se pueden escuchar en YouTubeMusic
 
 <br>
 
-## GitOps
-### Rancher
+## GitOps Deployment
+### Rancher y microk8s
 <p>
   <img src="rancher-cluster.png"/>
 </p>
@@ -149,7 +149,7 @@ No todas las canciones de tu playlist se pueden escuchar en YouTubeMusic
 
 <br>
 
-### Argo
+### Argo CD
 <p>
   <img src="argo-youmusic.png"/>
 </p>
