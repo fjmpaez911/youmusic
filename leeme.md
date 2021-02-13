@@ -20,6 +20,8 @@
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#sistema">Sistema</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gitops">GitOps</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#soporte-o-contacto">Soporte o contacto</a>
 </p>
 
@@ -134,6 +136,40 @@ No todas las canciones de tu playlist se pueden escuchar en YouTubeMusic
   <img src="platformInfrastructure.png"/>
 </p>
 
+<br>
+
+## GitOps
+### Rancher
+<p>
+  <img src="rancher-cluster.png"/>
+</p>
+<p>
+  <img src="rancher-youmusic.png"/>
+</p>
+
+<br>
+
+### Argo
+<p>
+  <img src="argo-youmusic.png"/>
+</p>
+<p>
+  <img src="argo-youmusic-playlists.png"/>
+</p>
+
+<br>
+
+### EFK
+<p>
+  <img src="kibana-youmusic.png"/>
+</p>
+
+<br>
+
+### Kiali
+<p>
+  <img src="kiali-youmusic.png"/>
+</p>
 
 <br>
 
