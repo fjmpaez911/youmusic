@@ -34,14 +34,14 @@
 
 Maybe you have many playlists in your YouTube account for different topics. YouMusic allows you to bring YouTube playlists where you have your favorite songs, talks, podcast, etc. Then you will be able to play just the audio of them. You can also download any song or the whole playlist.
 
-When a video is added or removed in the original playlist (YouTube), you will see what the changes are. Then you can sync your playlist or edit it manually.
+When a video is added or removed from the original playlist (YouTube), you will see what the changes are. Then you can sync your playlist or edit it manually.
 
 You can change the name of the songs, so when you download a song, the name won't contain _"(Official video)"_ or _"(with lyrics)"_.
 
 If any song is deleted from YouTube you will see that the song is not in the original playlist anymore, but you can search it again as you know exactly which one is gone.
 
 
-[YouMusic](https://youmusic.app) is a Web Application that you can use in the browser or as regular app in your Smartphone.
+[YouMusic](https://youmusic.app) is a Web Application that you can use in the browser or as a regular app on your Smartphone.
 
 
 <br>
