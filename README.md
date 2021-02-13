@@ -22,6 +22,8 @@
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#platform">Platform</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gitops">GitOps</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#support-or-contact">Support or contact</a>
 </p>
 
@@ -136,6 +138,41 @@ You can't listen to all the songs in your playlists in YouTubeMusic
 ### Infrastructure
 <p>
   <img src="platformInfrastructure.png"/>
+</p>
+
+
+## GitOps
+### Rancher
+<p>
+  <img src="rancher-cluster.png"/>
+</p>
+<p>
+  <img src="rancher-youmusic.png"/>
+</p>
+
+
+<br>
+
+### Argo
+<p>
+  <img src="argo-youmusic.png"/>
+</p>
+<p>
+  <img src="argo-youmusic-playlists.png"/>
+</p>
+
+<br>
+
+### EFK
+<p>
+  <img src="kibana-youmusic.png"/>
+</p>
+
+<br>
+
+### Kiali
+<p>
+  <img src="kiali-youmusic.png"/>
 </p>
 
 
