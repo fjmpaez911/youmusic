@@ -140,6 +140,7 @@ You can't listen to all the songs in your playlists in YouTubeMusic
   <img src="platformInfrastructure.png"/>
 </p>
 
+<br>
 
 ## GitOps
 ### Rancher
@@ -149,7 +150,6 @@ You can't listen to all the songs in your playlists in YouTubeMusic
 <p>
   <img src="rancher-youmusic.png"/>
 </p>
-
 
 <br>
 
@@ -174,7 +174,6 @@ You can't listen to all the songs in your playlists in YouTubeMusic
 <p>
   <img src="kiali-youmusic.png"/>
 </p>
-
 
 <br>
 
