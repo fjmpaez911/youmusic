@@ -181,4 +181,3 @@ You can't listen to all the songs in your playlists in YouTubeMusic
 
 Having trouble with the app? Send us an email to **_youmusicpwa@gmail.com_** and we’ll help you sort it out.
 
-_This [documentation](https://youmusic.app/doc)_
